@@ -7,3 +7,6 @@ button.addEventListener("click", () => {
     message.textContent = "Hello! You clicked the button!";
     message.style.color = "darkblue";
 });
+
+//New chnage
+//Check this out
